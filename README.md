@@ -82,3 +82,7 @@ singularity exec -B /mnt/nfs:/mnt/nfs /localdata/apps/demuxafy/Demuxafy.sif \
 
 - **sort_vcf_same_as_bam.sh script** (Aerts Lab):  
   https://github.com/aertslab/popscle_helper_tools/blob/master/sort_vcf_same_as_bam.sh
+
+- genome1K.phase3.SNP_AF5e2.chr1toX.hg38.vcf.gz source website :
+https://sourceforge.net/projects/cellsnp/files/SNPlist/
+  
